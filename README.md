@@ -7,7 +7,7 @@
   <a >
     <img src="https://visitor-badge.glitch.me/badge?page_id=thecodingwaffle" alt="views"/>
   </a>
-  <a href="www.thecodingwaffle.dev">
+  <a href="https://www.thecodingwaffle.dev">
     <img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" alt="portfolio"/>
   </a>
 </div>
