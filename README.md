@@ -6,6 +6,9 @@
   </a>
   <a >
     <img src="https://visitor-badge.glitch.me/badge?page_id=thecodingwaffle" alt="views"/>
+    <img src="https://visitor-badge.glitch.me/badge?page_id=page.id" alt="visitor badge"/>
+    <img src="https://visitor-badge.glitch.me/badge?page_id=thecodingwaffle" alt="visitor badge"/>
+    
   </a>
   <a href="https://www.thecodingwaffle.dev">
     <img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" alt="portfolio"/>
