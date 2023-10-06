@@ -5,9 +5,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a >
-    <img src="https://visitor-badge.glitch.me/badge?page_id=thecodingwaffle" alt="views"/>
-    <img src="https://visitor-badge.glitch.me/badge?page_id=page.id" alt="visitor badge"/>
-    <img src="https://visitor-badge.glitch.me/badge?page_id=thecodingwaffle" alt="visitor badge"/>
+
+    
     
   </a>
   <a href="https://www.thecodingwaffle.dev">
@@ -15,7 +14,7 @@
   </a>
 </div>
 </div>
-
+![](https://komarev.com/ghpvc/?username=thecodingwaffle&color=blueviolet)
 
 Welcome fellow \</developer>
 =============
