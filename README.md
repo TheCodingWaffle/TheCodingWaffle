@@ -28,5 +28,4 @@ I feel fortunate to live in a time where I can be a part of the entire developme
 :fire: My Public Stats
 =============                                                                                                
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=thecodingwaffle&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=2C72DD&ring=339DDD&currStreakLabel=7A68DD)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thecodingwaffle&count_private=true&show_icons=true&theme=dracula)
 
