@@ -4,17 +4,14 @@
   <a href="https://www.linkedin.com/in/stephenevincent/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a >
-
-    
-    
+  <a>
+    <img src="https://komarev.com/ghpvc/?username=thecodingwaffle&color=blueviolet" alt="counter"/>
   </a>
   <a href="https://www.thecodingwaffle.dev">
     <img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" alt="portfolio"/>
   </a>
 </div>
 </div>
-![](https://komarev.com/ghpvc/?username=thecodingwaffle&color=blueviolet)
 
 Welcome fellow \</developer>
 =============
